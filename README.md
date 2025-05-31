@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @Pamodya-Wijesinghe
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Pamodya Wijesinghe
 
-<!---
-Pamodya-Wijesinghe/Pamodya-Wijesinghe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **Biomedical Engineering Undergraduate** at the University of Moratuwa  
+🛠️ Passionate about developing innovative medical devices and drone technology  
+📍 Based in Sri Lanka
+
+## 🚀 Projects
+
+- **UroSense**: A device for monitoring urine volume and color in ICU patients.
+- **Transmission Line Inspection Drone**: A drone project funded by LECO Sri Lanka to detect defects in power transmission lines.
+
+## 🧰 Skills
+
+- Programming: Python, C++
+- Hardware: Arduino
+- Design: SolidWorks, Altium Designer
+- Others: Machine Learning, PCB Design
+
+## 📫 Contact Me
+
+- LinkedIn: [Pamodya Wijesinghe](https://lk.linkedin.com/in/pamodya-wijesinghe-2bb25a306)
+- Email: [wapamodyawijesinghe@gmail.com]
