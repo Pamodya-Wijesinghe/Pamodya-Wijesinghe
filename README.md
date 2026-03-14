@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/banner.gif" alt="Animated Banner" width="100%" />
   <br><br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/DNA.png" alt="Animated DNA" width="120" />
+  <video src="https://github.com/user-attachments/assets/Pamodya-Wijesinghe/Pamodya-Wijesinghe/profile_video.mp4" width="200" autoplay loop muted playsinline></video>
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Pamodya+Wijesinghe;Biomedical+Engineering+Undergrad;Passionate+about+HealthTech" alt="Typing SVG" />
   <br><br>
