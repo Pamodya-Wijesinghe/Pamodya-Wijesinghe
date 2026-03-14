@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/banner.gif" alt="Animated Banner" width="100%" />
   <br><br>
-  <video src="https://github.com/user-attachments/assets/70bbc3dd-7c49-46b0-a06e-52372e14afbb" width="200" autoplay loop muted playsinline></video>
+  <img src="https://raw.githubusercontent.com/Pamodya-Wijesinghe/Pamodya-Wijesinghe/main/profile_banner.png" alt="Biomedical Engineering Setup Avatar" width="600" style="border-radius: 10px;" />
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Pamodya+Wijesinghe;Biomedical+Engineering+Undergrad;Passionate+about+HealthTech" alt="Typing SVG" />
   <br><br>
